@@ -1,0 +1,11 @@
+body {
+  background: black;
+  color: gold;
+  font-family: Arial;
+  text-align: center;
+}
+
+input {
+  padding: 10px;
+  width: 200px;
+}
